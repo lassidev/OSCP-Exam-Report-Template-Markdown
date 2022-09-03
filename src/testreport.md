@@ -426,6 +426,7 @@ Screenshot Here:
 
 # Active Directory Set
 **Port Scan Results**
+
 Server IP Address | Ports Open
 ------------------|----------------------------------------
 192.168.1.1       | **TCP**: 21,22,25,80,443
